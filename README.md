@@ -1,3 +1,10 @@
+MIT License
+
+Copyright (c) 2020 John Page (aka hyp3rlinx)
+
+Permission is also explicitly given for insertion in vulnerability databases and similar,
+provided that due credit is given to the author Copyright (c) 2020 John Page (aka hyp3rlinx).
+
 # DarkFinger-C2
 Windows TCPIP Finger Command / C2 Channel and Bypassing Security Software
 
